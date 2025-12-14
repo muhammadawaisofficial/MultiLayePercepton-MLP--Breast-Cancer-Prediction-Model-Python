@@ -1,7 +1,7 @@
 # MultiLayePercepton(MLP)-Breast-Cancer-Prediction-Model-Python
 A simple implementation of a Multi-Layer Perceptron (MLP) neural network from scratch using NumPy for binary classification. Breast Cancer Prediction model in python
 
-
+ 
 Simple Multi-Layer Perceptron (MLP) from Scratch
 This repository contains a simple implementation of a Multi-Layer Perceptron (MLP) neural network using numpy. The project is designed for educational purposes to demonstrate the core concepts of a neural network, including the forward and backward propagation passes.
 
